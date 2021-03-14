@@ -1,0 +1,50 @@
+.banner{
+    background-color: #000;
+}
+.banner img{
+    background-color: #fff;
+    border-radius: 30%;
+    width: 2rem;
+    height: 2rem;
+    padding: 3px;
+}
+.bg-dark{
+    background-color: #000!important;
+}
+.collapse{
+    justify-content: flex-end;
+}
+.button{
+    background-color: rgba(255,255,255,.55);
+}
+.bg-image{
+    background-image: url(picture/matrix.jpg);
+    text-align: center;
+}
+.space{
+    opacity: 0;
+    height: 10rem;
+}
+.row{
+    margin: auto;
+    text-align: center;
+    background-color: #fff;
+    width: 80%;
+}
+.row h1, p{
+    margin: 1rem;
+}
+.row p{
+    text-align: left;
+}
+.row img{
+    width: 8rem;
+}
+.item{
+    margin: 1rem;
+}
+.footer{
+    background-color: #000;
+    color: #fff;
+    padding: 1rem;
+}
